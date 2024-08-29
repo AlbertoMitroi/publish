@@ -1,0 +1,15 @@
+C:\Users\alberto.mitroi\source\repos\InternshipTradingApp\InternshipTradingApp.AccountManagement\bin\Debug\net8.0\InternshipTradingApp.AccountManagement.deps.json
+C:\Users\alberto.mitroi\source\repos\InternshipTradingApp\InternshipTradingApp.AccountManagement\bin\Debug\net8.0\InternshipTradingApp.AccountManagement.runtimeconfig.json
+C:\Users\alberto.mitroi\source\repos\InternshipTradingApp\InternshipTradingApp.AccountManagement\bin\Debug\net8.0\InternshipTradingApp.AccountManagement.dll
+C:\Users\alberto.mitroi\source\repos\InternshipTradingApp\InternshipTradingApp.AccountManagement\bin\Debug\net8.0\InternshipTradingApp.AccountManagement.pdb
+C:\Users\alberto.mitroi\source\repos\InternshipTradingApp\InternshipTradingApp.AccountManagement\obj\Debug\net8.0\InternshipTradingApp.AccountManagement.csproj.AssemblyReference.cache
+C:\Users\alberto.mitroi\source\repos\InternshipTradingApp\InternshipTradingApp.AccountManagement\obj\Debug\net8.0\InternshipTradingApp.AccountManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alberto.mitroi\source\repos\InternshipTradingApp\InternshipTradingApp.AccountManagement\obj\Debug\net8.0\InternshipTradingApp.AccountManagement.AssemblyInfoInputs.cache
+C:\Users\alberto.mitroi\source\repos\InternshipTradingApp\InternshipTradingApp.AccountManagement\obj\Debug\net8.0\InternshipTradingApp.AccountManagement.AssemblyInfo.cs
+C:\Users\alberto.mitroi\source\repos\InternshipTradingApp\InternshipTradingApp.AccountManagement\obj\Debug\net8.0\InternshipTradingApp.AccountManagement.csproj.CoreCompileInputs.cache
+C:\Users\alberto.mitroi\source\repos\InternshipTradingApp\InternshipTradingApp.AccountManagement\obj\Debug\net8.0\InternshipTradingApp.AccountManagement.sourcelink.json
+C:\Users\alberto.mitroi\source\repos\InternshipTradingApp\InternshipTradingApp.AccountManagement\obj\Debug\net8.0\InternshipTradingApp.AccountManagement.dll
+C:\Users\alberto.mitroi\source\repos\InternshipTradingApp\InternshipTradingApp.AccountManagement\obj\Debug\net8.0\refint\InternshipTradingApp.AccountManagement.dll
+C:\Users\alberto.mitroi\source\repos\InternshipTradingApp\InternshipTradingApp.AccountManagement\obj\Debug\net8.0\InternshipTradingApp.AccountManagement.pdb
+C:\Users\alberto.mitroi\source\repos\InternshipTradingApp\InternshipTradingApp.AccountManagement\obj\Debug\net8.0\InternshipTradingApp.AccountManagement.genruntimeconfig.cache
+C:\Users\alberto.mitroi\source\repos\InternshipTradingApp\InternshipTradingApp.AccountManagement\obj\Debug\net8.0\ref\InternshipTradingApp.AccountManagement.dll
